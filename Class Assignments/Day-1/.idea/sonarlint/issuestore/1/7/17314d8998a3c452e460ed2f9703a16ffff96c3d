@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦œãÙ
+5
+java:S2129" Remove this "String" constructor(Ä±Þ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+2
+java:S1643"Use a StringBuilder instead.(žÆôÍ
+7
+java:S1643"Use a StringBuilder instead.(Â‚”ðùÿÿÿÿ

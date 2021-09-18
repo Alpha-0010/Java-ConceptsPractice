@@ -1,0 +1,9 @@
+
+w
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "area".(ùêÚúÿÿÿÿ
+w
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "perimeter".(ˆ™ÍÏ
+l
+java:S1104"QMake width a static final constant or non-public and provide accessors if needed.(æÙ™¶ÿÿÿÿÿ
+h
+java:S1104"RMake length a static final constant or non-public and provide accessors if needed.(ã„®ã
