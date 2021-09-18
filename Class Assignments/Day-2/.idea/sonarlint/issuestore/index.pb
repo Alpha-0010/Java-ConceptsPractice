@@ -23,5 +23,3 @@ W
 'src/main/java/training/model/Shape.java,f/b/fb4d1d3ce7cff9dbf0a6d02c70d2f099491fb3f1
 \
 ,src/main/java/training/model/Rectangle2.java,9/b/9b46d78405bb1bc95ede5a3af12100202fd89cb4
-e
-5src/main/java/training/programs/QuestionFourteen.java,8/e/8eb3daabc46f9b627b234ea6744a36f1249e8a36
